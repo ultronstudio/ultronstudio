@@ -1,7 +1,7 @@
 # 👦 About me:
 - My Name is **Petr**.<br>
 - I am **17 years old**.<br>
-- I am from **:czech_republic:**.<br>
+- I am from **Czech Republic**.<br>
 
 
 # 🌐 Socials:
