@@ -3,6 +3,10 @@
 - I am **17 years old**.<br>
 - I am from **Czech Republic**.<br>
 
+# ⏳ Wakatime stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k46F443VZJ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCD_3lwYUvAeeqR0zURQNdzA) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vurmpetr)
