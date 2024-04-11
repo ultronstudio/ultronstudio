@@ -24,4 +24,4 @@ Bash                             ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 # 🎨 Design:
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%2331A8FF.svg?style=for-the-badge&logo=canva&logoColor=white)
