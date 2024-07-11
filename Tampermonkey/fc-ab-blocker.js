@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-07-11
 // @description  Blocks fc-ab-root disable adblock popup on all websites and enables scrolling
-// @author       You
+// @author       Petr Vurm
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
 // @grant        none
