@@ -2,7 +2,7 @@
 // @name            fc-ab blocker
 // @name:cs         fc-ab blokovač
 // @namespace       http://tampermonkey.net/
-// @version         2024-07-11_1
+// @version         2024-07-12
 // @description     Blocks fc-ab disable adblock popup on all websites and enables scrolling
 // @description:cs  Blokuje vyskakovací okno fc-ab disable adblock na všech webových stránkách
 // @author          Petr Vurm
