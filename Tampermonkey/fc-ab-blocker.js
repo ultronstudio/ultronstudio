@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         fc-ab-root blocker
+// @name         fc-ab blocker
 // @namespace    http://tampermonkey.net/
 // @version      2024-07-11
-// @description  Blocks fc-ab-root disable adblock popup on all websites and enables scrolling
+// @description  Blocks fc-ab disable adblock popup on all websites and enables scrolling
 // @author       Petr Vurm
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
