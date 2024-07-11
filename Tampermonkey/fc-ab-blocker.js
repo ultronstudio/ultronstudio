@@ -9,7 +9,7 @@
 // @match           *://*/*
 // @icon            https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
 // @grant           none
-// @updateURL       https://github.com/ultronstudio/ultronstudio/main/Tampermonkey/fc-ab-blocker.js
+// @updateURL       https://github.com/ultronstudio/ultronstudio/raw/main/Tampermonkey/fc-ab-blocker.js
 // @license         Copyright Petr Vurm
 // ==/UserScript==
 
