@@ -8,7 +8,7 @@
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/ultronstudio/ultronstudio/main/Tampermonkey/fc-ab-blocker.js
+// @updateURL    https://github.com/ultronstudio/ultronstudio/main/Tampermonkey/fc-ab-blocker.js
 // @license      https://github.com/ultronstudio/ultronstudio/blob/main/LICENSE
 // ==/UserScript==
 
