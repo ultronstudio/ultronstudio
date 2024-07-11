@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name            fc-ab blocker
 // @name:cs         fc-ab blokovač
-// @namespace       http://tampermonkey.net/
+// @namespace       https://petrvurm.cz
 // @version         2024-07-12
 // @description     Blocks fc-ab disable adblock popup on all websites and enables scrolling
 // @description:cs  Blokuje vyskakovací okno fc-ab disable adblock na všech webových stránkách
 // @author          Petr Vurm
 // @match           *://*/*
-// @icon            https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
+// @icon            https://www.google.com/s2/favicons?sz=64&domain=petrvurm.cz
 // @grant           none
 // @updateURL       https://github.com/ultronstudio/ultronstudio/raw/main/Tampermonkey/fc-ab-blocker.js
 // @license         Copyright Petr Vurm
